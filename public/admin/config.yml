@@ -4,6 +4,8 @@ backend:
 media_folder: public/images
 public_folder: /images
 publish_mode: editorial_workflow
+site_url: https://rrremix.nl
+logo_url: https://dev.rrremix.nl/images/roel-regelink.jpg
 
 collections:
   - name: "config"
